@@ -59,7 +59,7 @@ I'm an AI & Robotics Engineering student at the Arab Academy for Science & Techn
 
 `ROS` `SLAM` `Inverse Kinematics` `Path Planning` `Real-time Object Detection`
 
-`[ADD REPO LINK]` · `[ADD DEMO GIF]`
+<!-- `[ADD REPO LINK]` · `[ADD DEMO GIF]` -->
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +75,7 @@ I'm an AI & Robotics Engineering student at the Arab Academy for Science & Techn
 
 `Flex Sensors` `IMU` `Sensor Fusion` `Embedded ML`
 
-`[ADD REPO LINK]` · `[ADD DEMO GIF]`
+`(https://github.com/Ysm-wld/IntelliGlove.git)` · `[ADD DEMO GIF]`
 
 </td>
 </tr>
@@ -93,7 +93,7 @@ I'm an AI & Robotics Engineering student at the Arab Academy for Science & Techn
 
 `Vision Transformer` `Whisper/Wav2Vec` `BERT/T5` `Cross-Attention` `SimCLR`
 
-`[ADD REPO LINK]` · `[ADD RESULTS WHEN AVAILABLE]`
+<!-- `[ADD REPO LINK]` · `[ADD RESULTS WHEN AVAILABLE]`-->
 
 </td>
 <td width="50%" valign="top">
@@ -105,7 +105,7 @@ I'm an AI & Robotics Engineering student at the Arab Academy for Science & Techn
 
 `Flutter` `Dart`
 
-`[ADD REPO LINK]`
+<!--`[ADD REPO LINK]` -->
 
 </td>
 </tr>
@@ -192,7 +192,7 @@ Architected and deployed a full SIEM/SOC pipeline (Sep 2025 – Jan 2026), integ
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ADD_GH_USERNAME]&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=14B8A6&title_color=5EEAD4&text_color=9CA3AF&bg_color=0B0F0F" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ysm-wld&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=14B8A6&title_color=5EEAD4&text_color=9CA3AF&bg_color=0B0F0F" height="150"/>
 </p>
 </details>
 
