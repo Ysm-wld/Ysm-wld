@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=150&section=header&text=Yasmin%20Walid%20Abou%20Elsaad&fontSize=48&fontColor=14B8A6&fontAlignY=42&desc=AI%20%2F%20Robotics%20Engineer&descAlignY=68&descColor=8b949e&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=150&section=header&text=Yasmin%20Walid%20Abou%20El-Saad&fontSize=48&fontColor=14B8A6&fontAlignY=42&desc=AI%20%2F%20Robotics%20Engineer&descAlignY=68&descColor=8b949e&descSize=22" />
 </p>
 
 <p align="center"><i>Building intelligent systems that perceive, decide, and act.</i></p>
@@ -21,7 +21,12 @@
     <img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=14B8A6" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/yasmin-walid">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=14B8A6" alt="LinkedIn">
+  <img
+    src="https://cdn.simpleicons.org/linkedin/14B8A6"
+    width="16"
+    alt="LinkedIn"
+  />
+  LinkedIn
   </a>
   <a href="https://www.mdpi.com/2504-4990/8/7/204">
     <img src="https://img.shields.io/badge/Published%20Research-161B22?style=flat-square&logo=doi&logoColor=14B8A6" alt="Published Research">
