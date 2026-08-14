@@ -10,7 +10,7 @@
 
 <p align="center"><i>Building intelligent systems that perceive, decide, and act.</i></p>
 
-<p align="center">Computer Vision · Autonomous Systems · Edge AI · Multimodal Intelligence</p>
+<p align="center">Computer Vision · Autonomous Robotics · Edge AI</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&size=15&pause=1400&color=5EEAD4&center=true&vCenter=true&width=600&lines=%F0%9F%A5%87+RoboCup%40Home+Egypt+2025+%E2%80%94+National+Champion;%F0%9F%93%84+Co-author%2C+peer-reviewed+edge-AI+research" alt="Typing SVG" />
@@ -28,11 +28,14 @@
   </a>
 </p>
 
+<p align="center" width="640">
+I'm an AI & Robotics Engineer focused on building intelligent systems that operate in the real world — spanning computer vision, autonomous robotics, multimodal AI, and edge deployment, from navigation systems competing on physical robots to research on efficient object detection for resource-constrained hardware.
+</p>
+
 <p align="center">
   <img src="assets/hero/signature.svg" width="72%" alt="Perceive, Understand, Decide, Act, Deploy pipeline" />
 </p>
-
-<br/>
+<p align="center"><sub style="color:#9CA3AF">Perceive the world, understand what matters, decide, act, and deploy the intelligence where it needs to run.</sub></p>
 
 ## Selected Work
 
@@ -114,9 +117,9 @@ Benchmarks YOLOv8 through YOLOv12 across Raspberry Pi, NVIDIA Jetson, and LatteP
 
 ## Engineering Stack
 
-**Perception** — `Python` `OpenCV` `YOLO` `PyTorch` `Transformers`
-**Robotics** — `ROS` `SLAM` `Path Planning` `Inverse Kinematics`
-**Edge & Embedded** — `C/C++` `Arduino` `ESP32` `Jetson` `Raspberry Pi`
+**Perception** — `Python` `OpenCV` `YOLO` `PyTorch` `Transformers`<br/>
+**Robotics** — `ROS` `SLAM` `Path Planning` `Inverse Kinematics`<br/>
+**Edge & Embedded** — `C/C++` `Arduino` `ESP32` `Jetson` `Raspberry Pi`<br/>
 **Systems** — `Linux` `Docker` `Git` `SQL`
 
 <br/>
