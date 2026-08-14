@@ -4,26 +4,31 @@
   =========================================================================
 -->
 
-<!-- ============================ HERO ============================ -->
+<h1 align="center">
+
+$\Huge{\color{#14B8A6}\textsf{Yasmin Walid}}$
+
+</h1>
+
+<h3 align="center">AI / Robotics Engineer</h3>
+<p align="center">Computer Vision · Autonomous Systems · Edge AI · Multimodal Intelligence</p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=150&section=header&text=Yasmin%20Walid%20Abou%20Elsaad&fontSize=28&fontColor=00d4ff&fontAlignY=45&desc=AI%20%2F%20Robotics%20Engineer&descAlignY=68&descColor=8b949e&descSize=15" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&size=15&pause=1400&color=5EEAD4&center=true&vCenter=true&width=600&lines=National+robotics+champion+%E2%80%94+RoboCup%40Home+Egypt+2025;Co-author%2C+peer-reviewed+edge-AI+research" alt="Typing SVG" />
 </p>
 
-<h3 align="center">I build systems that perceive, understand, decide, and act.</h3>
-
 <p align="center">
-  <a href="mailto:yasmin.wld4@gmail.com"><img src="https://img.shields.io/badge/-yasmin.wld4@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00d4ff" /></a>
-  <a href="https://www.linkedin.com/in/yasmin-walid"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00d4ff" /></a>
-  <a href="[ADD PAPER DOI LINK]"><img src="https://img.shields.io/badge/-Published_Research-0d1117?style=flat-square&logo=arxiv&logoColor=7c3aed" /></a>
+  <a href="mailto:yasmin.wld4@gmail.com"><img src="https://img.shields.io/badge/-Email-151A1A?style=flat-square&logo=gmail&logoColor=5EEAD4" /></a>
+  <a href="https://www.linkedin.com/in/yasmin-walid"><img src="https://img.shields.io/badge/-LinkedIn-151A1A?style=flat-square&logo=linkedin&logoColor=5EEAD4" /></a>
+  <a href="https://www.mdpi.com/2504-4990/8/7/204"><img src="https://img.shields.io/badge/-Published_Research-151A1A?style=flat-square&logo=readdotcv&logoColor=14B8A6" /></a>
 </p>
 
 <br/>
 
-I'm an AI & Robotics Engineering student at the Arab Academy for Science & Technology (Intelligent Systems & Robotics, GPA 3.9), based in Alexandria, Egypt. Most of what I build ends up touching a camera, a sensor, or a motor at some point — I like AI that has to survive contact with the real world, not just a validation set. My work spans computer vision, autonomous navigation, multimodal AI, and edge deployment, and one system I led to navigation went on to win Egypt's national RoboCup@Home championship.
+I'm an AI & Robotics Engineering student at the Arab Academy for Science & Technology (Intelligent Systems & Robotics, GPA 3.9), based in Alexandria, Egypt. Most of what I build ends up touching a camera, a sensor, or a motor at some point — I'm drawn to AI that has to survive contact with the real world, not just a validation set. My work spans computer vision, autonomous navigation, multimodal AI, and edge deployment, and one navigation system I led went on to win Egypt's national RoboCup@Home championship.
 
 <br/>
 
-<!-- ============================ SIGNATURE VISUAL ============================ -->
 <p align="center">
   <img src="assets/hero/signature.svg" width="100%" alt="Perceive, Understand, Decide, Act, Deploy pipeline" />
 </p>
@@ -33,7 +38,7 @@ I'm an AI & Robotics Engineering student at the Arab Academy for Science & Techn
 
 ## What I've built
 
-> Screenshots/GIFs referenced below live in `/assets/projects/` — see the asset list at the end. Nothing here is a mockup; placeholders are marked explicitly.
+> Screenshots/GIFs referenced below belong in `assets/projects/` — see the asset list at the end. Nothing here is a mockup; placeholders are marked explicitly.
 
 <table>
 <tr>
@@ -108,24 +113,40 @@ I'm an AI & Robotics Engineering student at the Arab Academy for Science & Techn
 ## Research
 
 <table>
-<tr><td>
+<tr>
+<td width="14" style="background-color:#14B8A6;"></td>
+<td>
 
-**Benchmarking YOLOv8–YOLOv12 for Real-Time Object Detection on SBCs**
-`Preprints.org` · Published 2026 · DOI: [10.20944/preprints202605.0936.v1](https://doi.org/10.20944/preprints202605.0936.v1)
+<sub><b>PUBLISHED · PEER-REVIEWED JOURNAL ARTICLE</b></sub>
 
-Benchmarked five YOLO generations (v8–v12) on resource-constrained single-board computers, evaluating inference latency, accuracy tradeoffs, and real-world deployment feasibility for edge AI and embedded robotics.
+### Benchmarking YOLOv8–YOLOv12 for Real-Time Object Detection on Single-Board Computers
 
-`[ADD BENCHMARK CHART: latency vs. accuracy across models/hardware]`
+**Journal:** *Machine Learning and Knowledge Extraction* (MDPI) · Vol. 8, Issue 7, Article 204
+**Published:** 13 July 2026 · **DOI:** [10.3390/make8070204](https://doi.org/10.3390/make8070204)
 
-</td></tr>
-<tr><td>
+A comprehensive benchmark of YOLOv8 through YOLOv12 across single-board computers — Raspberry Pi 4/5, NVIDIA Jetson Nano, Jetson Orin, and LattePanda — under different power modes, evaluating inference speed (FPS), detection accuracy (mAP), RAM usage, and computational complexity (FLOPs) for real-time edge deployment.
+
+Co-authored with a research team spanning Ajman University, Heriot-Watt University Dubai, and the Arab Academy for Science, Technology & Maritime Transport. My contribution included hands-on benchmark execution across the SBC platforms, alongside literature review, data interpretation, and results visualization.
+
+```text
+YOLOv8 → YOLOv9 → YOLOv10 → YOLOv11 → YOLOv12
+                     │
+              Edge Deployment
+     (Raspberry Pi · Jetson · LattePanda)
+                     │
+       FPS  ·  mAP  ·  RAM  ·  FLOPs
+```
+
+<a href="https://www.mdpi.com/2504-4990/8/7/204"><img src="https://img.shields.io/badge/Read_the_Article-14B8A6?style=for-the-badge&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 **Multimodal Wearable Dataset for Arabic Sign Language Recognition** — *in progress*
-
-Building a public dataset from flex + IMU sensor fusion for Arabic Sign Language alphabet recognition — the research extension of IntelliGlove, aimed at advancing inclusive, multimodal human-computer interaction.
-
-</td></tr>
-</table>
+Building a public dataset from flex + IMU sensor fusion for Arabic Sign Language alphabet recognition — the research extension of IntelliGlove.
 
 <br/>
 
@@ -167,12 +188,12 @@ Architected and deployed a full SIEM/SOC pipeline (Sep 2025 – Jan 2026), integ
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ADD_GH_USERNAME]&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[ADD_GH_USERNAME]&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=14B8A6&title_color=5EEAD4&text_color=9CA3AF&bg_color=0B0F0F" height="150"/>
 </p>
 </details>
 
 <br/>
 
 <p align="center">
-  <sub>Alexandria, Egypt</sub>
+  <sub style="color:#9CA3AF">Alexandria, Egypt</sub>
 </p>
