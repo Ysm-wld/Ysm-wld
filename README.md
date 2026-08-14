@@ -4,9 +4,9 @@
   =========================================================================
 -->
 
-<h1 align="center">
-  <font color="#14B8A6">Yasmin Walid</font>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=150&section=header&text=Yasmin%20Walid%20Abou%20Elsaad&fontSize=28&fontColor=00d4ff&fontAlignY=45&desc=AI%20%2F%20Robotics%20Engineer&descAlignY=68&descColor=8b949e&descSize=15" />
+</p>
 
 <h3 align="center">AI / Robotics Engineer</h3>
 <p align="center">Computer Vision · Autonomous Systems · Edge AI · Multimodal Intelligence</p>
@@ -16,9 +16,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:yasmin.wld4@gmail.com"><img src="https://img.shields.io/badge/-Email-151A1A?style=flat-square&logo=gmail&logoColor=5EEAD4" /></a>
-  <a href="https://www.linkedin.com/in/yasmin-walid"><img src="https://img.shields.io/badge/-LinkedIn-151A1A?style=flat-square&logo=linkedin&logoColor=5EEAD4" /></a>
-  <a href="https://www.mdpi.com/2504-4990/8/7/204"><img src="https://img.shields.io/badge/-Published_Research-151A1A?style=flat-square&logo=readdotcv&logoColor=14B8A6" /></a>
+  <a href="mailto:yasmin.wld4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0B0F0F?style=for-the-badge&logo=gmail&logoColor=14B8A6&labelColor=0B0F0F" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yasmin-walid">
+    <img src="https://img.shields.io/badge/LinkedIn-0B0F0F?style=for-the-badge&logo=linkedin&logoColor=14B8A6&labelColor=0B0F0F" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mdpi.com/2504-4990/8/7/204">
+    <img src="https://img.shields.io/badge/Published%20Research-0B0F0F?style=for-the-badge&logo=doi&logoColor=14B8A6&labelColor=0B0F0F" alt="Published Research"/>
+  </a>
 </p>
 
 <br/>
