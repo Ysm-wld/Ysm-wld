@@ -16,16 +16,15 @@
 </p>
 
 <p align="center">
-  <a href="mailto:yasmin.wld4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B0F0F?style=for-the-badge&logo=gmail&logoColor=14B8A6&labelColor=0B0F0F" alt="Email"/>
+  <a href="mailto:yasmin.wld4@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-0B0F0F?style=flat-square&logo=gmail&logoColor=14B8A6" alt="Email"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/yasmin-walid">
-    <img src="https://img.shields.io/badge/LinkedIn-0B0F0F?style=for-the-badge&logo=linkedin&logoColor=14B8A6&labelColor=0B0F0F" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/yasmin-walid" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/linkedin/14B8A6" height="14" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0B0F0F?style=flat-square&logoColor=14B8A6" alt="LinkedIn"/>
   </a>
-  &nbsp;
-  <a href="https://www.mdpi.com/2504-4990/8/7/204">
-    <img src="https://img.shields.io/badge/Published%20Research-0B0F0F?style=for-the-badge&logo=doi&logoColor=14B8A6&labelColor=0B0F0F" alt="Published Research"/>
+  <a href="https://www.mdpi.com/2504-4990/8/7/204" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Published%20Research-0B0F0F?style=flat-square&logo=doi&logoColor=14B8A6" alt="Published Research"/>
   </a>
 </p>
 
