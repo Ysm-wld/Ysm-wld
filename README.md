@@ -5,9 +5,7 @@
 -->
 
 <h1 align="center">
-
-$\Huge{\color{#14B8A6}\textsf{Yasmin Walid}}$
-
+  <span style="color:#14B8A6;">Yasmin Walid</span>
 </h1>
 
 <h3 align="center">AI / Robotics Engineer</h3>
