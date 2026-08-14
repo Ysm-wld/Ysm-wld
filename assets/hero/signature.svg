@@ -1,1 +1,78 @@
+<svg viewBox="0 0 1100 260" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', 'Courier New', monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#11151c"/>
+    </linearGradient>
+    <linearGradient id="nodeGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#00d4ff"/>
+    </marker>
+  </defs>
 
+  <rect width="1100" height="260" fill="url(#bg)" rx="12"/>
+
+  <!-- connecting line -->
+  <line x1="124" y1="110" x2="976" y2="110" stroke="#2a2f3a" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <!-- arrowheads between nodes -->
+  <line x1="128" y1="110" x2="262" y2="110" stroke="transparent" marker-end="url(#arrow)"/>
+  <line x1="353" y1="110" x2="487" y2="110" stroke="transparent" marker-end="url(#arrow)"/>
+  <line x1="578" y1="110" x2="712" y2="110" stroke="transparent" marker-end="url(#arrow)"/>
+  <line x1="803" y1="110" x2="937" y2="110" stroke="transparent" marker-end="url(#arrow)"/>
+
+  <!-- ============ NODE TEMPLATE (repeated via groups) ============ -->
+
+  <!-- Node 1: PERCEIVE -->
+  <g transform="translate(80,110)">
+    <circle r="44" fill="url(#nodeGrad)" stroke="#00d4ff" stroke-width="2"/>
+    <text x="0" y="0" dy="0.35em" text-anchor="middle" fill="#00d4ff" font-size="20" font-weight="bold">01</text>
+  </g>
+  <text x="80" y="180" text-anchor="middle" fill="#00d4ff" font-size="13" font-weight="bold" letter-spacing="0.5">PERCEIVE</text>
+  <text x="80" y="197" text-anchor="middle" fill="#8b949e" font-size="10">CV · sensors</text>
+  <text x="80" y="214" text-anchor="middle" fill="#c9d1d9" font-size="9.5">camera · LiDAR</text>
+  <text x="80" y="228" text-anchor="middle" fill="#c9d1d9" font-size="9.5">flex / IMU</text>
+
+  <!-- Node 2: UNDERSTAND -->
+  <g transform="translate(310,110)">
+    <circle r="44" fill="url(#nodeGrad)" stroke="#7c3aed" stroke-width="2"/>
+    <text x="0" y="0" dy="0.35em" text-anchor="middle" fill="#7c3aed" font-size="20" font-weight="bold">02</text>
+  </g>
+  <text x="310" y="180" text-anchor="middle" fill="#7c3aed" font-size="13" font-weight="bold" letter-spacing="0.5">UNDERSTAND</text>
+  <text x="310" y="197" text-anchor="middle" fill="#8b949e" font-size="10">ML · multimodal</text>
+  <text x="310" y="214" text-anchor="middle" fill="#c9d1d9" font-size="9.5">YOLO · ViT</text>
+  <text x="310" y="228" text-anchor="middle" fill="#c9d1d9" font-size="9.5">fusion models</text>
+
+  <!-- Node 3: DECIDE -->
+  <g transform="translate(540,110)">
+    <circle r="44" fill="url(#nodeGrad)" stroke="#00d4ff" stroke-width="2"/>
+    <text x="0" y="0" dy="0.35em" text-anchor="middle" fill="#00d4ff" font-size="20" font-weight="bold">03</text>
+  </g>
+  <text x="540" y="180" text-anchor="middle" fill="#00d4ff" font-size="13" font-weight="bold" letter-spacing="0.5">DECIDE</text>
+  <text x="540" y="197" text-anchor="middle" fill="#8b949e" font-size="10">planning</text>
+  <text x="540" y="214" text-anchor="middle" fill="#c9d1d9" font-size="9.5">SLAM · path</text>
+  <text x="540" y="228" text-anchor="middle" fill="#c9d1d9" font-size="9.5">planning</text>
+
+  <!-- Node 4: ACT -->
+  <g transform="translate(770,110)">
+    <circle r="44" fill="url(#nodeGrad)" stroke="#7c3aed" stroke-width="2"/>
+    <text x="0" y="0" dy="0.35em" text-anchor="middle" fill="#7c3aed" font-size="20" font-weight="bold">04</text>
+  </g>
+  <text x="770" y="180" text-anchor="middle" fill="#7c3aed" font-size="13" font-weight="bold" letter-spacing="0.5">ACT</text>
+  <text x="770" y="197" text-anchor="middle" fill="#8b949e" font-size="10">robotics</text>
+  <text x="770" y="214" text-anchor="middle" fill="#c9d1d9" font-size="9.5">inverse</text>
+  <text x="770" y="228" text-anchor="middle" fill="#c9d1d9" font-size="9.5">kinematics</text>
+
+  <!-- Node 5: DEPLOY -->
+  <g transform="translate(1000,110)">
+    <circle r="44" fill="url(#nodeGrad)" stroke="#00d4ff" stroke-width="2"/>
+    <text x="0" y="0" dy="0.35em" text-anchor="middle" fill="#00d4ff" font-size="20" font-weight="bold">05</text>
+  </g>
+  <text x="1000" y="180" text-anchor="middle" fill="#00d4ff" font-size="13" font-weight="bold" letter-spacing="0.5">DEPLOY</text>
+  <text x="1000" y="197" text-anchor="middle" fill="#8b949e" font-size="10">edge · embedded</text>
+  <text x="1000" y="214" text-anchor="middle" fill="#c9d1d9" font-size="9.5">SBCs</text>
+  <text x="1000" y="228" text-anchor="middle" fill="#c9d1d9" font-size="9.5">Arduino/ESP32</text>
+</svg>
