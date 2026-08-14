@@ -21,10 +21,10 @@
     <img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=14B8A6" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/yasmin-walid">
-    <img src="https://img.shields.io/badge/LinkedIn-0B0F0F?style=flat-square&logo=linkedin&logoColor=14B8A6" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=14B8A6" alt="LinkedIn">
   </a>
   <a href="https://www.mdpi.com/2504-4990/8/7/204">
-    <img src="https://img.shields.io/badge/Published%20Research-0B0F0F?style=flat-square&logo=doi&logoColor=14B8A6" alt="Published Research">
+    <img src="https://img.shields.io/badge/Published%20Research-161B22?style=flat-square&logo=doi&logoColor=14B8A6" alt="Published Research">
   </a>
 </p>
 
