@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=170&section=header&text=Yasmin%20Walid%20Abou%20Elsaad&fontSize=48&fontColor=008f8c&fontAlignY=42&desc=AI%20%2F%20Robotics%20Engineer&descAlignY=68&descColor=8b949e&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=150&section=header&text=Yasmin%20Walid%20Abou%20Elsaad&fontSize=48&fontColor=008f8c&fontAlignY=42&desc=AI%20%2F%20Robotics%20Engineer&descAlignY=68&descColor=8b949e&descSize=22" />
 </p>
 
 <!-- <h3 align="center">AI / Robotics Engineer</h3> -->
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0B0F0F?style=flat-square&logo=linkedin&logoColor=14B8A6" alt="LinkedIn">
   </a>
   <a href="https://www.mdpi.com/2504-4990/8/7/204">
-    <img src="https://img.shields.io/badge/Published%20Research-0B0F0F?style=flat-square&logo=doi&logoColor=14B8A6" alt="Published Research">
+    <img src="https://img.shields.io/badge/Published%20Research-0B0F0F?style=flat-square&logo=readthedocs&logoColor=14B8A6" alt="Published Research">
   </a>
 </p>
 
