@@ -5,7 +5,7 @@
 -->
 
 <h1 align="center">
-  <span style="color:#14B8A6;">Yasmin Walid</span>
+  <font color="#14B8A6">Yasmin Walid</font>
 </h1>
 
 <h3 align="center">AI / Robotics Engineer</h3>
