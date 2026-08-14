@@ -33,7 +33,7 @@ I'm an AI & Robotics Engineer interested in what happens when intelligence leave
 </p>
 
 <p align="center">
-  <img src="assets/hero/signature.svg" width="72%" alt="Perceive, Understand, Decide, Act, Deploy pipeline" />
+  <img src="assets/hero/signature.svg" width="80%" alt="Perceive, Understand, Decide, Act, Deploy pipeline" />
 </p>
 <p align="center"><sub style="color:#9CA3AF">Perceive the world, understand what matters, decide, act, and deploy the intelligence where it needs to run.</sub></p>
 
