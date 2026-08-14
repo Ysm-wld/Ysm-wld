@@ -11,8 +11,8 @@ $\Huge{\color{#14B8A6}\textsf{Yasmin Walid}}$
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=150&section=header&text=Yasmin%20Walid%20Abou%20Elsaad&fontSize=28&fontColor=00d4ff&fontAlignY=45&desc=AI%20%2F%20Robotics%20Engineer&descAlignY=68&descColor=8b949e&descSize=15" />
-</p> 
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=150&section=header&text=Yasmin%20Walid%20Abou%20Elsaad&fontSize=38&fontColor=008f8c&fontAlignY=45&desc=AI%20%2F%20Robotics%20Engineer&descAlignY=68&descColor=8b949e&descSize=15" />
+</p>
 
 <!-- <h3 align="center">AI / Robotics Engineer</h3> -->
 <p align="center">Computer Vision · Autonomous Systems · Edge AI · Multimodal Intelligence</p>
