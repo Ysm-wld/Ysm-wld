@@ -29,7 +29,7 @@
 </p>
 
 <p align="center" width="640">
-I'm an AI & Robotics Engineer focused on building intelligent systems that operate in the real world — spanning computer vision, autonomous robotics, multimodal AI, and edge deployment, from navigation systems competing on physical robots to research on efficient object detection for resource-constrained hardware.
+I'm an AI & Robotics Engineer focused on building intelligent systems that bridge the gap between algorithms and the physical world. My work spans computer vision, autonomous robotics, multimodal AI, and edge deployment — combining perception, decision-making, and control to turn real-world data into systems that can understand, act, and adapt. From autonomous robots competing in real-world environments to research on efficient AI for resource-constrained hardware, I'm interested in making intelligent systems not only accurate, but practical, responsive, and deployable.
 </p>
 
 <p align="center">
