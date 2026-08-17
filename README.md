@@ -117,10 +117,10 @@ Benchmarks YOLOv8 through YOLOv12 across Raspberry Pi, NVIDIA Jetson, and LatteP
 
 ## Engineering Stack
 
-**Perception** — `Python` `OpenCV` `YOLO` `PyTorch` `Transformers`<br/>
-**Robotics** — `ROS` `SLAM` `Path Planning` `Inverse Kinematics`<br/>
-**Edge & Embedded** — `C/C++` `Arduino` `ESP32` `Jetson` `Raspberry Pi`<br/>
-**Systems** — `Linux` `Docker` `Git` `SQL`
+**Perception & AI** — `Python` `Computer Vision` `OpenCV` `YOLOv8–v12` `PyTorch` `TensorFlow` `Transformers`<br/>
+**Robotics & Autonomy** — `ROS` `ROS2` `SLAM` `Autonomous Navigation` `Path Planning` `Obstacle Avoidance` `Inverse Kinematics`<br/>
+**Edge & Embedded** — `C/C++` `Arduino` `ESP32` `Jetson` `Raspberry Pi` `Embedded Systems` `Edge AI`<br/>
+**Systems & Tools** — `Linux` `Docker` `Git` `System Integration` `Model Deployment`
 
 <br/>
 
@@ -131,7 +131,7 @@ Benchmarks YOLOv8 through YOLOv12 across Raspberry Pi, NVIDIA Jetson, and LatteP
 
 <br/>
 
-<details>
+<!-- <details>
 <summary><b>Other technical experience</b> — security engineering</summary>
 <br/>
 
@@ -139,17 +139,33 @@ Architected and deployed a full SIEM/SOC pipeline (Sep 2025 – Jan 2026): Wazuh
 
 `Wazuh` `OpenSearch` `Suricata` `OpenEDR` `MISP` `Shuffle`
 
-</details>
-
-<br/>
+</details> -->
 
 <details>
-<summary>GitHub stats</summary>
+<summary><b>Additional technical experience</b> — embedded systems, IoT & security</summary>
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ysm-wld&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=14B8A6&title_color=5EEAD4&text_color=9CA3AF&bg_color=0B0F0F" height="150"/>
-</p>
+**Embedded & IoT**
+Built sensor-driven ESP32 systems integrating LDR/PIR sensing, embedded data acquisition, and cloud telemetry through ThingSpeak.
+
+`ESP32` `Arduino` `LDR` `PIR` `IoT` `ThingSpeak`
+
+**Robotics & Control**
+Developed Arduino-based autonomous robots combining line following, ultrasonic obstacle detection, PWM motor control, and sensor-based navigation.
+**🥇 1st Place — College Line-Tracking Robot Competition**
+
+`Arduino` `C/C++` `PWM` `Ultrasonic Sensors` `Motor Control` `Obstacle Avoidance`
+
+**Systems & Linux**
+Hands-on Linux and Red Hat system administration alongside containerized development and robotics tooling.
+
+`Linux` `Red Hat` `Docker` `Git` `ROS CLI`
+
+**Security Engineering**
+Architected and deployed a full SIEM/SOC pipeline integrating Wazuh, OpenSearch, Suricata, OpenEDR, MISP, and Shuffle for detection, threat intelligence, and automated incident response.
+
+`Wazuh` `OpenSearch` `Suricata` `OpenEDR` `MISP` `Shuffle`
+
 </details>
 
 <br/>
