@@ -131,8 +131,7 @@ Benchmarks YOLOv8 through YOLOv12 across Raspberry Pi, NVIDIA Jetson, and LatteP
 
 <br/>
 
-<details>
-## Beyond AI & Robotics
+<details> <summary><b>Additional technical experience</b> — embedded systems, IoT & security</summary> <br/>
 
 ### 🔌 Embedded & IoT
 
