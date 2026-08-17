@@ -131,80 +131,42 @@ Benchmarks YOLOv8 through YOLOv12 across Raspberry Pi, NVIDIA Jetson, and LatteP
 
 <br/>
 
-<!-- <details>
-<summary><b>Additional technical experience</b> — embedded systems, IoT & security</summary>
-<br/>
+<details>
+## Beyond AI & Robotics
 
-**Embedded & IoT**
+### 🔌 Embedded & IoT
+
 Built sensor-driven ESP32 systems integrating LDR/PIR sensing, embedded data acquisition, and cloud telemetry through ThingSpeak.
 
 `ESP32` `Arduino` `LDR` `PIR` `IoT` `ThingSpeak`
 
-**Robotics & Control**
+<br/>
+
+### 🤖 Robotics & Control
+
 Developed Arduino-based autonomous robots combining line following, ultrasonic obstacle detection, PWM motor control, and sensor-based navigation.
+
 **🥇 1st Place — College Line-Tracking Robot Competition**
 
 `Arduino` `C/C++` `PWM` `Ultrasonic Sensors` `Motor Control` `Obstacle Avoidance`
 
-**Systems & Linux**
+<br/>
+
+### 🐧 Systems & Linux
+
 Hands-on Linux and Red Hat system administration alongside containerized development and robotics tooling.
 
 `Linux` `Red Hat` `Docker` `Git` `ROS CLI`
 
-**Security Engineering**
+<br/>
+
+### 🛡️ Security Engineering
+
 Architected and deployed a full SIEM/SOC pipeline integrating Wazuh, OpenSearch, Suricata, OpenEDR, MISP, and Shuffle for detection, threat intelligence, and automated incident response.
 
 `Wazuh` `OpenSearch` `Suricata` `OpenEDR` `MISP` `Shuffle`
 
-</details> -->
-
-## Beyond AI & Robotics
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔌 Embedded & IoT
-
-Sensor-driven embedded systems using ESP32 for real-time data acquisition, LDR/PIR sensing, and cloud telemetry.
-
-`ESP32` `Arduino` `LDR` `PIR` `IoT` `ThingSpeak`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Robotics & Control
-
-Built autonomous Arduino robots combining line following, ultrasonic obstacle detection, PWM motor control, and sensor-based navigation.
-
-**🥇 1st Place — College Line-Tracking Competition**
-
-`Arduino` `C/C++` `PWM` `Motor Control` `Obstacle Avoidance`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🐧 Linux & Systems
-
-Hands-on Linux and Red Hat administration alongside containerized development and robotics tooling.
-
-`Linux` `Red Hat` `Docker` `Git` `ROS CLI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Security Engineering
-
-Designed and deployed a SIEM/SOC pipeline for security monitoring, threat intelligence, detection, and automated incident response.
-
-`Wazuh` `OpenSearch` `Suricata` `OpenEDR` `MISP` `Shuffle`
-
-</td>
-</tr>
-</table>
+</details> 
 
 
 <br/>
