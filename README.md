@@ -132,16 +132,6 @@ Benchmarks YOLOv8 through YOLOv12 across Raspberry Pi, NVIDIA Jetson, and LatteP
 <br/>
 
 <!-- <details>
-<summary><b>Other technical experience</b> — security engineering</summary>
-<br/>
-
-Architected and deployed a full SIEM/SOC pipeline (Sep 2025 – Jan 2026): Wazuh, OpenSearch, Suricata, and OpenEDR for detection, MISP for threat intelligence, and Shuffle for automated incident-response playbooks.
-
-`Wazuh` `OpenSearch` `Suricata` `OpenEDR` `MISP` `Shuffle`
-
-</details> -->
-
-<details>
 <summary><b>Additional technical experience</b> — embedded systems, IoT & security</summary>
 <br/>
 
@@ -166,7 +156,56 @@ Architected and deployed a full SIEM/SOC pipeline integrating Wazuh, OpenSearch,
 
 `Wazuh` `OpenSearch` `Suricata` `OpenEDR` `MISP` `Shuffle`
 
-</details>
+</details> -->
+
+## Beyond AI & Robotics
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔌 Embedded & IoT
+
+Sensor-driven embedded systems using ESP32 for real-time data acquisition, LDR/PIR sensing, and cloud telemetry.
+
+`ESP32` `Arduino` `LDR` `PIR` `IoT` `ThingSpeak`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Robotics & Control
+
+Built autonomous Arduino robots combining line following, ultrasonic obstacle detection, PWM motor control, and sensor-based navigation.
+
+**🥇 1st Place — College Line-Tracking Competition**
+
+`Arduino` `C/C++` `PWM` `Motor Control` `Obstacle Avoidance`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🐧 Linux & Systems
+
+Hands-on Linux and Red Hat administration alongside containerized development and robotics tooling.
+
+`Linux` `Red Hat` `Docker` `Git` `ROS CLI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Security Engineering
+
+Designed and deployed a SIEM/SOC pipeline for security monitoring, threat intelligence, detection, and automated incident response.
+
+`Wazuh` `OpenSearch` `Suricata` `OpenEDR` `MISP` `Shuffle`
+
+</td>
+</tr>
+</table>
+
 
 <br/>
 
